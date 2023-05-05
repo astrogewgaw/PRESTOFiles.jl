@@ -1,0 +1,7 @@
+name = "PRESTOFiles"
+uuid = "4285aae6-9ae9-4b73-9dab-c7504b40e73a"
+authors = ["Ujjwal Panda <ujjwalpanda97@gmail.com> and contributors"]
+version = "0.0.1"
+
+[compat]
+julia = "1.8"
